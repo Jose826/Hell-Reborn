@@ -176,7 +176,7 @@ class CreditsState extends MusicBeatState
 			FlxG.sound.music.volume += 0.5 * FlxG.elapsed;
 		}
 
-		if(!quitting) ser
+		if(!quitting) 
 		{
 			if(creditsStuff.length > 1)
 			{
